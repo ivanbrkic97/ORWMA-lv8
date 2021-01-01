@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">LV8</string>
+    <string name="nameTV">Name:</string>
+    <string name="ratingTV">Rating:</string>
+    <string name="priceTV">Price:</string>
+    <string name="imageLinkAtributeName">image_link</string>
+    <string name="BASE_API">https://makeup-api.herokuapp.com/api/v1/</string>
+    <string name="editText_hint">Enter brand</string>
+    <string name="submintButton_text">Search</string>
+    <string name="notFound">Oh no! We couldn\'t find a single match for "</string>
+    <string-array name="types">
+        <item>Blush</item>
+        <item>Bronzer</item>
+        <item>Eyebrow</item>
+        <item>Eyeliner</item>
+        <item>Eyeshadow</item>
+        <item>Foundation</item>
+        <item>Lip liner</item>
+        <item>Lipstick</item>
+        <item>Mascara</item>
+        <item>Nail polish</item>
+    </string-array>
+    <string-array name="brands">
+        <item>Almay</item>
+        <item>Alva</item>
+        <item>Anna sui</item>
+        <item>Annabelle</item>
+        <item>Benefit</item>
+        <item>Boosh</item>
+        <item>Burt\'s bees</item>
+        <item>Butter london</item>
+        <item>C\'est moi</item>
+        <item>Cargo cosmetics</item>
+        <item>China glaze</item>
+        <item>Clinique</item>
+        <item>Coastal classic creation</item>
+        <item>Colourpop</item>
+        <item>Covergirl</item>
+        <item>Dalish</item>
+        <item>Deciem</item>
+        <item>Dior</item>
+        <item>Dr. hauschka</item>
+        <item>E.l.f.</item>
+        <item>Essie</item>
+        <item>Fenty</item>
+        <item>Glossier</item>
+        <item>Green people</item>
+        <item>Iman</item>
+        <item>L\'oreal</item>
+        <item>Lotus cosmetics usa</item>
+        <item>Maia\'s mineral galaxy</item>
+        <item>Marcelle</item>
+        <item>Marienatie</item>
+        <item>Maybelline</item>
+        <item>Milani</item>
+        <item>Mineral fusion</item>
+        <item>Misa</item>
+        <item>Mistura</item>
+        <item>Moov</item>
+        <item>Nudus</item>
+        <item>Nyx</item>
+        <item>Orly</item>
+        <item>Pacifica</item>
+        <item>Penny lane organics</item>
+        <item>Physicians formula</item>
+        <item>Piggy paint</item>
+        <item>Pure anada</item>
+        <item>Rejuva minerals</item>
+        <item>Revlon</item>
+        <item>Sally b\'s skin yummies</item>
+        <item>Salon perfect</item>
+        <item>Sante</item>
+        <item>Sinful colours</item>
+        <item>Smashbox</item>
+        <item>Stila</item>
+        <item>Suncoat</item>
+        <item>W3llpeople</item>
+        <item>Wet n wild</item>
+        <item>Zorah</item>
+        <item>Zorah biocosmetiques</item>
+    </string-array>
+</resources>
